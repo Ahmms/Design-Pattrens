@@ -1,0 +1,15 @@
+C:\Users\Ahmad\Desktop\GITHUB\Design Pattrens\Mediator_Dp\Mediator_Dp\bin\Debug\net6.0\Mediator_Dp.exe
+C:\Users\Ahmad\Desktop\GITHUB\Design Pattrens\Mediator_Dp\Mediator_Dp\bin\Debug\net6.0\Mediator_Dp.deps.json
+C:\Users\Ahmad\Desktop\GITHUB\Design Pattrens\Mediator_Dp\Mediator_Dp\bin\Debug\net6.0\Mediator_Dp.runtimeconfig.json
+C:\Users\Ahmad\Desktop\GITHUB\Design Pattrens\Mediator_Dp\Mediator_Dp\bin\Debug\net6.0\Mediator_Dp.dll
+C:\Users\Ahmad\Desktop\GITHUB\Design Pattrens\Mediator_Dp\Mediator_Dp\bin\Debug\net6.0\Mediator_Dp.pdb
+C:\Users\Ahmad\Desktop\GITHUB\Design Pattrens\Mediator_Dp\Mediator_Dp\obj\Debug\net6.0\Mediator_Dp.csproj.AssemblyReference.cache
+C:\Users\Ahmad\Desktop\GITHUB\Design Pattrens\Mediator_Dp\Mediator_Dp\obj\Debug\net6.0\Mediator_Dp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmad\Desktop\GITHUB\Design Pattrens\Mediator_Dp\Mediator_Dp\obj\Debug\net6.0\Mediator_Dp.AssemblyInfoInputs.cache
+C:\Users\Ahmad\Desktop\GITHUB\Design Pattrens\Mediator_Dp\Mediator_Dp\obj\Debug\net6.0\Mediator_Dp.AssemblyInfo.cs
+C:\Users\Ahmad\Desktop\GITHUB\Design Pattrens\Mediator_Dp\Mediator_Dp\obj\Debug\net6.0\Mediator_Dp.csproj.CoreCompileInputs.cache
+C:\Users\Ahmad\Desktop\GITHUB\Design Pattrens\Mediator_Dp\Mediator_Dp\obj\Debug\net6.0\Mediator_Dp.dll
+C:\Users\Ahmad\Desktop\GITHUB\Design Pattrens\Mediator_Dp\Mediator_Dp\obj\Debug\net6.0\refint\Mediator_Dp.dll
+C:\Users\Ahmad\Desktop\GITHUB\Design Pattrens\Mediator_Dp\Mediator_Dp\obj\Debug\net6.0\Mediator_Dp.pdb
+C:\Users\Ahmad\Desktop\GITHUB\Design Pattrens\Mediator_Dp\Mediator_Dp\obj\Debug\net6.0\Mediator_Dp.genruntimeconfig.cache
+C:\Users\Ahmad\Desktop\GITHUB\Design Pattrens\Mediator_Dp\Mediator_Dp\obj\Debug\net6.0\ref\Mediator_Dp.dll
